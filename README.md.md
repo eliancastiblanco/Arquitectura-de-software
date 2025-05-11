@@ -20,3 +20,5 @@ Este proyecto tiene como objetivo analizar y diseñar la arquitectura de un sist
 - /src: Código fuente
 - /docs: Documentación
 - /tests: Pruebas
+## Autor
+- Enrique Berrio
