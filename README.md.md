@@ -15,3 +15,8 @@ Este proyecto tiene como objetivo analizar y diseñar la arquitectura de un sist
 - Node.js
 - Express
 - MongoDB
+## Estructura del proyecto
+
+- /src: Código fuente
+- /docs: Documentación
+- /tests: Pruebas
